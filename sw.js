@@ -1,5 +1,5 @@
 // 进阶题库的离线缓存，由 web/scripts/make-pages.mjs 生成
-  const VERSION = '35123cc21e6208b9';
+  const VERSION = 'bee96ffc4de85862';
   const CACHE = 'jj-' + VERSION;
   const FILES = ['./', './manifest.webmanifest', './icon-180.png', './icon-512.png'];
   function fill() {
